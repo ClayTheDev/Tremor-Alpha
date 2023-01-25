@@ -1,0 +1,35 @@
+name: Commands2
+version: '${project.version}'
+main: me.clay.commands2.Commands2
+api-version: 1.19
+commands:
+  Zeus:
+    description: become one with the gods.
+    usage: /<command>
+  hunger:
+    description: Sets hunger to 0.
+    usage: /<command>
+  ping:
+    description: Shows user's Ping.
+    usage: /<command>
+    aliases:
+      - p
+  player:
+    description: Shows user information.
+    usage: /<command>
+  kicker:
+    description: kicks the user!!!!
+    usage: /<command>
+  sex:
+    description: It doesn't do what the name says, Don't do it.
+    usage: /<command>
+  shell:
+    description: Your a turtle now. Don't die!!
+    usage: /<command>
+  announce:
+    description: Announces a broadcasted message to the server.
+    usage: /<command>
+    aliases:
+      - ann
+      - broadcast
+      - sbc

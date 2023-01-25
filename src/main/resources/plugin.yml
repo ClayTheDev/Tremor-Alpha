@@ -1,4 +1,4 @@
-name: Commands2
+name: Tremor
 version: '${project.version}'
 main: me.clay.commands2.Commands2
 api-version: 1.19
@@ -7,7 +7,7 @@ commands:
     description: become one with the gods.
     usage: /<command>
   hunger:
-    description: Sets hunger to 0.
+    description: gives player hunger with the amplifier of 10.
     usage: /<command>
   ping:
     description: Shows user's Ping.
@@ -15,7 +15,7 @@ commands:
     aliases:
       - p
   player:
-    description: Shows user information.
+    description: Shows user information. EX; Shows IGN, Ping, And other.
     usage: /<command>
   kicker:
     description: kicks the user!!!!

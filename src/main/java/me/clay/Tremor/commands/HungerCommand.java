@@ -1,11 +1,9 @@
-package me.clay.commands2.commands;
+package me.clay.Tremor.commands;
 
 import org.bukkit.ChatColor;
-import org.bukkit.Effect;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
-import org.bukkit.entity.Husk;
 import org.bukkit.entity.Player;
 import org.bukkit.potion.PotionEffect;
 import org.bukkit.potion.PotionEffectType;

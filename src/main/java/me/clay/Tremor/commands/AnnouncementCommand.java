@@ -1,4 +1,4 @@
-package me.clay.commands2.commands;
+package me.clay.Tremor.commands;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;

@@ -1,6 +1,5 @@
-package me.clay.commands2.listeners;
+package me.clay.Tremor.listeners;
 
-import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerRespawnEvent;

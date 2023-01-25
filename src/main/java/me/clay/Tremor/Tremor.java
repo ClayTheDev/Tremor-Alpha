@@ -1,10 +1,10 @@
-package me.clay.commands2;
+package me.clay.Tremor;
 
-import me.clay.commands2.commands.*;
-import me.clay.commands2.listeners.TestListener;
+import me.clay.Tremor.commands.*;
+import me.clay.Tremor.listeners.TestListener;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class Commands2 extends JavaPlugin {
+public final class Tremor extends JavaPlugin {
 
     @Override
     public void onEnable() {
